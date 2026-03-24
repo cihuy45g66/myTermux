@@ -36,7 +36,7 @@ pkg update && pkg upgrade
 - Package `bc` for calculate repository size which will be cloning or downloading
 
 ```bash
-pkg i -y git bc
+pkg i -y git bc clang
 ```
 
   </details>
