@@ -2,7 +2,7 @@
 
 PACKAGES=(
   bat wget curl clang fzf git imagemagick stylua python
-  nodejs-lts tur-repo x11-repo lua-language-server
+  nodejs-lts tur-repo x11-repo lua-language-server lsd
   inotify-tools lf mpd mpc neovim-nightly openssh
   neofetch termux-api tmux zsh proot-distro pulseaudio
 )
