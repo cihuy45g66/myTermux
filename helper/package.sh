@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
 
 PACKAGES=(
-  bat curl clang fzf git imagemagick
-  inotify-tools lf mpd mpc neovim openssh
-  neofetch termux-api tmux zsh proot-distro
+  bat wget curl clang fzf git imagemagick stylua python
+  nodejs-lts tur-repo x11-repo lua-language-server
+  inotify-tools lf mpd mpc neovim-nightly openssh
+  neofetch termux-api tmux zsh proot-distro pulseaudio
 )
 
 function packages() {
